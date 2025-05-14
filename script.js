@@ -31,6 +31,32 @@ function efectoHabilidades(){
         habilidades[7].classList.add("creatividad");
         habilidades[8].classList.add("dedicacion");
         habilidades[9].classList.add("proyect");
+        habilidades[10].classList.add("javascript");
+        habilidades[11].classList.add("htmlcss");
+        habilidades[12].classList.add("photoshop");
+        habilidades[13].classList.add("wordpress");
+        habilidades[14].classList.add("drupal");
+        habilidades[15].classList.add("comunicacion");
+        habilidades[16].classList.add("trabajo");
+        habilidades[17].classList.add("creatividad");
+        habilidades[18].classList.add("dedicacion");
+        habilidades[19].classList.add("proyect");
+        habilidades[20].classList.add("javascript");
+        habilidades[21].classList.add("htmlcss");
+        habilidades[22].classList.add("photoshop");
+        habilidades[23].classList.add("wordpress");
+        habilidades[24].classList.add("drupal");
+        habilidades[25].classList.add("comunicacion");
+        habilidades[26].classList.add("trabajo");
+        habilidades[27].classList.add("creatividad");
+        habilidades[28].classList.add("dedicacion");
+        habilidades[29].classList.add("proyect");
+        habilidades[30].classList.add("drupal");
+        habilidades[31].classList.add("comunicacion");
+        habilidades[32].classList.add("trabajo");
+        habilidades[33].classList.add("creatividad");
+        habilidades[34].classList.add("dedicacion");
+        habilidades[35].classList.add("proyect");
     }
 }
 
